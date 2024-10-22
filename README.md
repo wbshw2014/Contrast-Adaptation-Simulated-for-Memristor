@@ -5,4 +5,4 @@ Contrast adaptation simulated for memristor applied to the manuscript entitled â
 Folder 'dataset' contains 2,000 training samples and 500 validation samples from scotopic adaptation at 8s.
 
 # Note
-Datasets and devices' data can be defined according to requirements, and the corresponding neural network training model should also be changed
+Datasets and devices' data can be defined according to requirements, and the corresponding neural network training model should also be changed.
