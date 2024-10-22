@@ -7,6 +7,4 @@ Folder 'dataset' contains 2,000 training samples and 500 validation samples from
 # Note:
 Datasets and devices' data could be defined according to requirements, and the parameters for the training model should also be changed.
 
-
-
-Tribute to the team FMEG.
+Hats off to the team FMEG.
